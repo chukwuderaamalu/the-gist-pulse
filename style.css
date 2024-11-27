@@ -1,0 +1,28 @@
+
+
+
+
+
+.tg{
+    position: relative;
+
+}
+
+.tgg{
+    position: absolute;
+background-color: plum;
+color: white;
+width: 100px;
+height: 100px;
+border: 1px solid plum;
+border-radius: 50%;
+text-align: center;
+padding: 60px;
+display: grid;
+place-content: center;
+top: 30%;
+left: 14%;
+transform: translate(-20%, -20%);
+
+
+}
