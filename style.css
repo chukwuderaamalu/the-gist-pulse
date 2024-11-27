@@ -1,16 +1,16 @@
 
 
-
-
-
-.tg{
-    position: relative;
-
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
+
+
 .tgg{
-    position: absolute;
-background-color: plum;
+   
+background-image: linear-gradient( rgb(255, 213, 135),orange );
 color: white;
 width: 100px;
 height: 100px;
@@ -20,9 +20,6 @@ text-align: center;
 padding: 60px;
 display: grid;
 place-content: center;
-top: 30%;
-left: 14%;
-transform: translate(-20%, -20%);
-
+margin-top: 100px;
 
 }
